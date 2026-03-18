@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/Users/Maduranga/Documents/GowinEDA/Tang Nano 9K/go_up_down_counter/src/top_design.v",
+  "InstLine" : 2,
+  "InstName" : "top_module",
+  "ModuleFile" : "C:/Users/Maduranga/Documents/GowinEDA/Tang Nano 9K/go_up_down_counter/src/top_design.v",
+  "ModuleLine" : 2,
+  "ModuleName" : "top_module",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/Maduranga/Documents/GowinEDA/Tang Nano 9K/go_up_down_counter/src/top_design.v",
+    "InstLine" : 19,
+    "InstName" : "div",
+    "ModuleFile" : "C:/Users/Maduranga/Documents/GowinEDA/Tang Nano 9K/go_up_down_counter/src/clk_divider.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "clock_divider"
+   },
+   {
+    "InstFile" : "C:/Users/Maduranga/Documents/GowinEDA/Tang Nano 9K/go_up_down_counter/src/top_design.v",
+    "InstLine" : 26,
+    "InstName" : "u_go",
+    "ModuleFile" : "C:/Users/Maduranga/Documents/GowinEDA/Tang Nano 9K/go_up_down_counter/src/go_detect.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "go_detect"
+   },
+   {
+    "InstFile" : "C:/Users/Maduranga/Documents/GowinEDA/Tang Nano 9K/go_up_down_counter/src/top_design.v",
+    "InstLine" : 34,
+    "InstName" : "u_fsm",
+    "ModuleFile" : "C:/Users/Maduranga/Documents/GowinEDA/Tang Nano 9K/go_up_down_counter/src/fsm.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "fsm_counter"
+   }
+  ]
+ }
+]
